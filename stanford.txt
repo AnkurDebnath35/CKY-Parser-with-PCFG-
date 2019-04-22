@@ -1,0 +1,69 @@
+sentence: Simran uses an IPhoneX.
+(ROOT
+  (S
+    (NP (NNP Simran))
+    (VP (VBZ uses)
+      (NP (DT an) (NN IPhoneX)))
+    (. .)))
+
+
+sentence: His nature is such to discriminate.
+(ROOT
+  (S
+    (NP (PRP$ His) (NN nature))
+    (VP (VBZ is)
+      (ADJP (JJ such)
+        (S
+          (VP (TO to)
+            (VP (VB discriminate))))))
+    (. .)))
+
+
+
+sentence: An institution, whose history is so rich, can't be judged simply on the basis of its old architecture.
+(ROOT
+  (S
+    (NP
+      (NP (DT An) (NN institution))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (NN history))
+        (S
+          (VP (VBZ is)
+            (ADJP (RB so) (JJ rich)))))
+      (, ,))
+    (VP (MD ca) (RB n't)
+      (VP (VB be)
+        (VP (VBN judged)
+          (ADVP (RB simply))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN basis))
+              (PP (IN of)
+                (NP (PRP$ its) (JJ old) (NN architecture))))))))
+    (. .)))
+
+sentence: This is important to note that although he is rich, yet he is so humble.
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (ADJP (JJ important)
+          (S
+            (VP (TO to)
+              (VP (VB note)
+                (SBAR (IN that) (IN although)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ is)
+                      (ADJP (JJ rich)))))))))))
+    (, ,)
+    (CC yet)
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (ADJP (RB so) (JJ humble))))
+    (. .)))
+
