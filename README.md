@@ -2,8 +2,8 @@
 
 Dependencies :
 
-pip intall nltk
-nltk.download('treebank')
+1. pip intall nltk
+2. nltk.download('treebank')
 
 How to Run :
   1. path:
