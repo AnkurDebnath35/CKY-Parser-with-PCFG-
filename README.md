@@ -6,9 +6,9 @@ pip intall nltk
 nltk.download('treebank')
 
 How to Run :
-  path:
+  1. path:
   /home/e1-246-6/ankur/
-  run:
+  2. run:
   ./run.sh
 
-https://github.com/AnkurDebnath35/CKY-Parser-with-PCFG-/issues/1#issue-436212412
+![bash](https://user-images.githubusercontent.com/48415756/56588009-2d722800-6600-11e9-802e-03a976131826.PNG)
